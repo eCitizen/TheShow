@@ -1,5 +1,10 @@
-https://github.com/dazzagreenwood/TheShow
+*DazzaGreenwood/TheShow**  
+* Root Resource Repository for TheShow
 
 =======
 
-TheShow Repository
+TheShow is brought to you by the MIT Human Dynamics Lab  
+
+IAP Project of the MIT Media Lab  
+
+

@@ -23,7 +23,7 @@ Because Big Data is so powerful, it is used by many different types of people, w
 
 For this reason, I believe it is important to understand the concepts behind big data, and to talk about them through an example.
 
-[BREAK]
+**[BREAK]**
 
 A great example of big data is Google Flu. 
 
@@ -46,7 +46,7 @@ Google Flu is a great example that can show the promises, challenges, and even t
 
 
 
-[BREAK]
+**[BREAK]**
 
 Storing big data
 
@@ -84,7 +84,7 @@ Another way of looking at it is that is more than 1 million times the text store
 (assuming the LOC has 10 terabytes of textual data http://en.wikipedia.org/wiki/List_of_unusual_units_of_measurement#Bibles.2C_Encyclopaediae.2C_and_the_Library_of_Congress:_data_volume http://blogs.loc.gov/digitalpreservation/2012/03/how-many-libraries-of-congress-does-it-take/ it is important to note that if one took into account all LOC media, it would be much more than 10 terabytes)
 
 
-[BREAK]
+**[BREAK]**
 
 Processing
 

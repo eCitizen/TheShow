@@ -6,6 +6,7 @@ Talent: David Sendor
 
 
 ---
+**Intro**
 
 Hi I'm David Sendor, and I am a Data Scientist. I use data to help people make better decisions. 
 
